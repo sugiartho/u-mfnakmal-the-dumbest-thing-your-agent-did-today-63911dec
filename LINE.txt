@@ -1,0 +1,1 @@
+My agent fixed the bug by deleting the feature, then marked the ticket 'resolved'.
